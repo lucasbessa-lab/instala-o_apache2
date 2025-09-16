@@ -4,7 +4,7 @@ COMO INSTALAR O APACHE2 NA SUA MÁQUINA VIRTUAL:
 sudo apt-get update
 
 2. Execute o comando para instalar o apache2:
-<code>sudo apt-get install apache2</code>
+<code>sudo apt-get install apache2</code>.
 Clique no s para continuar.
 
 3.Verifique o status do servidor pelo comando:
